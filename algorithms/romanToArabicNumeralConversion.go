@@ -2,9 +2,11 @@ package main
 
 import "fmt"
 
+/*
 func main() {
 	fmt.Println(romanToInt("III"))
 }
+*/
 
 var romanToArabic = map[string]int{
 	"I": 1,
